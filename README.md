@@ -205,21 +205,3 @@ After the alignment model is trained, its learned embeddings are used to generat
 
 ---
 
-
-## 👥 Collaborators
-
-
-<a href="https://github.com/amanKarki-AK">
-  <img src="https://github.com/amanKarki-AK.png" width="35" style="vertical-align:middle" />
-  <strong> Aman Karki </strong>
-</a>
-<br />
-<a href="https://github.com/Ritikavarshney-hub">
-  <img src="https://github.com/Ritikavarshney-hub.png" width="35" style="vertical-align:middle" />
-  <strong> Ritika Varshney</strong>
-</a>
-<br />
-<a href="https://github.com/nidhi-059">
-  <img src="https://github.com/nidhi-059.png" width="35" style="vertical-align:middle" />
-  <strong> Nidhi Soni </strong>
-</a>
